@@ -1,4 +1,9 @@
 ﻿Module Operators
+    'Jamison Burton
+    'RECT 0265
+    'Spring 2022
+    'https://github.com/Reimonoe17/operators
+
 
     Sub Main()
         'Example of + Operator
